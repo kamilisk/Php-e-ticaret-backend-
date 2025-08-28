@@ -1,5 +1,9 @@
 *.log
+/docker-compose.yml
 urunsite/docker-compose.yml
+docker-compose.yml 
+.docker-compose.yml 
+urunsite.docker-compose.yml 
 .DS_Store
 .env
 .env.backup
